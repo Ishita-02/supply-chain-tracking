@@ -1,3 +1,13 @@
+# Supply Chain Tracking Dapp
+
+StellarTrack is a decentralized application (dApp) developed on the Stellar blockchain, dedicated to transforming supply chain tracking. Utilizing blockchain technology, StellarTrack ensures transparency, immutability, and security throughout the supply chain process.
+
+StellarTrack enables users to track the movement of products from their origin to their final destination. Every transaction and transfer of ownership is securely recorded on the Stellar blockchain, guaranteeing authenticity and reliability. This transparent ledger facilitates trust among supply chain partners and facilitates swift resolution of any issues.
+
+StellarTrack provides an intuitive interface for stakeholders to access essential data and insights about their goods. Whether it's tracing the origins of raw materials or monitoring the progress of finished products, StellarTrack offers comprehensive visibility into the supply chain.
+
+By leveraging the capabilities of the Stellar network, StellarTrack aims to streamline supply chain operations, mitigate risks, and enhance efficiency in global trade.
+
 # Soroban Project
 
 ## Project Structure
